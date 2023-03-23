@@ -1,8 +1,8 @@
 1. Клонируйте репозиторий с проектом:
-   git clone https://github.com/yourusername/my-task-app.git
+   git clone https://github.com/Bekarysalashybayev/TaskAppFront.git
 
 2. Установите зависимости:
-   cd my-task-app
+   cd TaskAppFront
    npm install
 
 3. Запустите сервер разработки:
